@@ -1,4 +1,4 @@
-# CloudProject2021getshipped
+# Cloud Project 2021 "GetShipped"
 
 
 # Please visit https://cloudproject2021.herokuapp.com/
